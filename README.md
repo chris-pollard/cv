@@ -12,27 +12,34 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 ## 👨‍💻 Experience
 
 ### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
-Free and Open Source end-to-end data platform for health organisations in low-income settings.
-  - Mono repo
-  - Backend servers, front end react
-  - Worked with both redux and reactquery (aka Tan Query)
+Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings.
+  - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages.
+  - Worked with both Redux and React Query (ie Tan Query)
   - Worked with external api services
-  - Used Typescript (and love it)
-  - Became familiar with recursive functions
-  - Started learning to write Lambda functions on AWS
-  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components (material-ui), expressjs, knex.
-  - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github
+  - Familiar with Continuous Integration Continuous Deployment
+  - Managed releases on rotation
+  - Wrote and maintained developer documentation
+  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components, expressjs, knex.
+  - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
 
-## 📌 Volunteering and Hobbies
+## 👨🏻‍🎓 Education and Archived History
 
-**Node Running** since 2021 (started on Umbrel, graduated to a headless ubuntu server on a beautiful little NUC.<br>
+ **12-week Software Engineering Course** focused on client and server side web development<br>
+[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
+
+**Diploma of Education (Teaching)**<br>
+La Trobe University - Melbourne, Australia _(2010 - 2011)_
+
+**Bachelor of Performing Arts**<br>
+Monash University - Melbourne, Australia _(2004 - 2007)_
+<br>
+
+## 📌 Volunteering and Hobbies
 
 **Secretary** @ Victorian Bitcoin Technology Club _(Incorporated Oct 2023)_<br>
 
 **Co-organiser** @ [Bitcoin Melbourne](https://bitcoinonly.melbourne) _(May 2022 - Present)_<br>
-
-**Running a BTCPayServer and store** @ [Bitcoin Only Store](https://bitcoinonly.store) _(April 2022 - Present)_<br>
 
 **Tinkering** with microPython and fun little devices.
 <br>
@@ -42,14 +49,4 @@ Free and Open Source end-to-end data platform for health organisations in low-in
 🇫🇷 **French**: Beginner <br>
 🇪🇸 **Spanish**: Beginner
 <br>
-## 👨🏻‍🎓 Education and Archived History
 
- **12-week Software Engineering Course course** focused on client and server side web development<br>
-[Codecademy](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
-
-**Diploma of Education (Teaching)**<br>
-La Trobe University - Melbourne, Australia _(2010 - 2011)_
-
-**Bachelor of Performing Arts**<br>
-Monash University - Melbourne, Australia _(2004 - 2007)_
-<br>
