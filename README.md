@@ -9,7 +9,7 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 
 [Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
-## 👨‍💻 Experience
+## 👨‍💻 Coding Experience
 
 ### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
 Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings.
@@ -22,6 +22,12 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
   - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components, expressjs, knex.
   - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
+
+## 👨‍💻 Other Work Experience
+
+### **Project Manager** @ [RMIt University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
+
+### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(Ausut )_ <br>
 
 ## 👨🏻‍🎓 Education and Archived History
 
