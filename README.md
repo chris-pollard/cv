@@ -25,13 +25,14 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
 
 ## 👨🏻‍🎓 Education and Archived History
 
- **12-week Software Engineering Course** focused on client and server side web development<br>
+ **12-week Software Engineering Course** <br>
+A three month full-time immersive course focused on client and server side web development (JavaScript primarily, with some Ruby)<br>
 [General Assembly](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
 
 **Diploma of Education (Teaching)**<br>
 La Trobe University - Melbourne, Australia _(2010 - 2011)_
 
-**Bachelor of Performing Arts**<br>
+**Bachelor of Arts**<br>
 Monash University - Melbourne, Australia _(2004 - 2007)_
 <br>
 
