@@ -24,7 +24,7 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
 
 ## 👨‍💻 Other Work Experience
 
-### **Project Manager** @ [RMIt University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
+### **Project Manager** @ [RMIT University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
 
 ### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_ <br>
 
