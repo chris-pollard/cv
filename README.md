@@ -16,7 +16,6 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
   - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages.
   - Worked with both Redux and React Query (ie Tan Query)
   - Worked with external api services
-  - Familiar with Continuous Integration Continuous Deployment
   - Managed releases on rotation
   - Wrote and maintained developer documentation
   - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components, expressjs, knex.
