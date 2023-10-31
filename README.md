@@ -26,13 +26,13 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
 
 ### **Project Manager** @ [RMIt University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
 
-### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(Ausut )_ <br>
+### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_ <br>
 
 ## 👨🏻‍🎓 Education and Archived History
 
- **12-week Software Engineering Course** <br>
+**12-week Software Engineering Immersive** <br>
 A three month full-time immersive course focused on client and server side web development (JavaScript primarily, with some Ruby)<br>
-[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _( May 2021 - July 2021)_ <br>
+[General Assembly](https://generalassemb.ly/) - Melbourne, Australia _(May 2021 - July 2021)_ <br>
 
 **Diploma of Education (Teaching)**<br>
 La Trobe University - Melbourne, Australia _(2010 - 2011)_
