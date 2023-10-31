@@ -11,7 +11,7 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 
 ## 👨‍💻 Coding Experience
 
-### **Fullstack Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
+### **Junior Software Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
 Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings.
   - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages.
   - Worked with both Redux and React Query (ie Tan Query)
