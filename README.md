@@ -30,7 +30,7 @@ Delivered major projects, including the college teaching and learning response t
 ### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_
 Managed the development of a SaaS product, worked closely with lead software developer, business analyst and testers to frame and complete user stories.
 
-## 👨🏻‍🎓 Education and Archived History
+## 👨🏻‍🎓 Formal Education
 
 **12-week Software Engineering Immersive** <br>
 A three month full-time immersive course focused on client and server side web development (JavaScript primarily, with some Ruby)<br>
