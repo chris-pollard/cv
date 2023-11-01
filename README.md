@@ -13,13 +13,13 @@ _In 2021, I moved from project management into a technical-focussed career. I ca
 
 ### **Junior Software Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
 Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings.
-  - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages.
+  - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages
   - Worked with both Redux and React Query (ie Tan Query)
-  - Worked with external api services
+  - Managed changes to external REST api service integration
   - Managed releases on rotation
   - Wrote and maintained developer documentation
-  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, material-ui, Storybook, expressjs, knex.
-  - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github, Linear
+  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, material-ui, Storybook, expressjs, knex
+  - **_Platforms used:_** AWS (including console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
 
 ## 👔 Other Work Experience
