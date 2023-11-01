@@ -22,7 +22,7 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
   - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
 
-## 👨‍💻 Other Work Experience
+## 👔 Other Work Experience
 
 ### **Project Manager** @ [RMIT University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
 
