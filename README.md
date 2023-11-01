@@ -3,7 +3,7 @@
 ### _Software Engineer based in Melbourne 🇦🇺_ <br>
 Time zone: [GMT + 11](https://time.is/compare)
 
-**#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #knex #python**
+**#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #storybook #knex #python**
 
 _In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective software whilst collaborating and learning from others._ <br>
 
@@ -18,7 +18,7 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
   - Worked with external api services
   - Managed releases on rotation
   - Wrote and maintained developer documentation
-  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, Web Components, expressjs, knex.
+  - **_Technologies used:_** React, TypeScript, Postgres, SQL, Jest, Chai, HTML, CSS, material-ui, Storybook, expressjs, knex.
   - **_Platforms used:_** AWS (console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
 
