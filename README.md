@@ -24,9 +24,11 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
 
 ## 👔 Other Work Experience
 
-### **Project Manager** @ [RMIT University](https://rmit.edu.au) _(March 2020 - December 2020)_ <br>
+### **Project Manager** @ [RMIT University](https://rmit.edu.au) _(March 2020 - December 2020)_
+Delivered major projects, including the college teaching and learning response to COVID-19. Sprint planning and execution with multi-disciplinary team.
 
-### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_ <br>
+### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_
+Managed the development of a SaaS product, worked closely with lead software developer, business analyst and testers to frame and complete user stories.
 
 ## 👨🏻‍🎓 Education and Archived History
 
@@ -53,6 +55,6 @@ Monash University - Melbourne, Australia _(2004 - 2007)_
 
 🇬🇧 **English**: Native <br>
 🇫🇷 **French**: Beginner <br>
-🇪🇸 **Spanish**: Beginner
-<br>
+🇪🇸 **Spanish**: Beginner <br>
 
+_Last updated: 2 Nov 2023_
