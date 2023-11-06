@@ -5,7 +5,7 @@ Time zone: [GMT + 11](https://time.is/compare)
 
 **#nodejs  #postgres  #typescript  #reactjs  #material-ui  #expressjs  #sql  #storybook #knex #python**
 
-_In 2021, I moved from project management into a technical-focussed career. I care about building elegant, effective software whilst collaborating and learning from others._ <br>
+_In 2021, I moved from project management into a technical-focussed career. I am an object-oriented and functional programmer. I care about building elegant, effective software whilst collaborating and learning from others._ <br>
 
 [Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
