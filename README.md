@@ -9,10 +9,10 @@ _In 2021, I moved from project management into a technical-focussed career. I am
 
 [Email](mailto:cpollard@proton.me) / [LinkedIn](https://www.linkedin.com/in/chris-pollard-au/) / [GitHub](https://github.com/chris-pollard/) 
 
-## 👨‍💻 Coding Experience
+## 👨‍💻 Experience
 
-### **Software Engineer** @ [Beyond Essential](https://bes.au) _(September 2021 - Present)_ <br>
-Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings.
+### **Software Engineer** @ [Beyond Essential Systems](https://bes.au) _(September 2021 - Present)_ <br>
+_Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org), an open source data collection, reporting and visualisation web platform for health organisations in low-income settings._
   - Programmed across mono repository, including micro-services, orchestration servers and three front-end packages
   - Worked with both Redux and React Query (ie Tan Query)
   - Managed changes to external REST api service integration
@@ -22,13 +22,18 @@ Worked in a 20 person engineering team primarily on [Tupaia](https://tupaia.org)
   - **_Platforms used:_** AWS (including console, EC2, S3, RDS, Lambda), Github, Linear
 <br><br>
 
-## 👔 Other Work Experience
-
 ### **Project Manager** @ [RMIT University](https://rmit.edu.au) _(March 2020 - December 2020)_
-Delivered major projects, including the college teaching and learning response to COVID-19. Sprint planning and execution with multi-disciplinary team.
+- Managed the transformation of the new College of Vocational Education.
+- Managed the Learning and Teaching response to the COVID-19 pandemic in the College of Science Health and Engineering.
 
 ### **IT Project Manager** @ [Victorian Tertiary Admissions Centre](https://rmit.edu.au) _(December 2015 - March 2020)_
-Managed the development of a SaaS product, worked closely with lead software developer, business analyst and testers to frame and complete user stories.
+_VTAC's core business is a centralised University application system. It is lesser known as the developer of B2C, B2B, SaaS and CRM products._
+- Managed the design and implementation of a ~$900K direct admissions platform project
+- Prepared detailed highlight reports for Portfolio Board and Management Committee
+- Developed strong relationships with project owners
+- Engage key stakeholders to develop deep understanding of requirements and success criteria
+- Led Project Management Office staff and managed risks across organisation portfolio
+- Worked closely with academic registrars, admissions managers, selection officers, software developers, designers and other staff at various organisational levels
 
 ## 👨🏻‍🎓 Formal Education
 
